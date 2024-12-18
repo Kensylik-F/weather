@@ -1,0 +1,26 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "description": "for getting weather",
+  "keywords": [
+    "weather",
+    "cli"
+  ],
+  "license": "ISC",
+  "author": "Egor Kensovskii",
+  "type": "commonjs",
+  "main": "index.js",
+  "bin": "./index.js",
+  "man": ["./README.md"],
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "#"
+  },
+  "bugs": {
+    "email": "ekensovskuy@mail.ru"
+  }
+}
